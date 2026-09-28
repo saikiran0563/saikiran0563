@@ -1,13 +1,51 @@
-Hi, I'm Sai Kiran 👋
+# Hi, I'm Sai Kiran 👋
 
-Pivoting from full-stack development into **AI Engineering / Machine Learning / Data-AI** roles.
+**Computer Science graduate | Python Full-Stack Developer | AI/ML learner**
 
-- 🎓 B.Tech CSE, Sai Spurthi Institute of Technology (JNTUH), 2021–2025
-- 🛠️ Background: React.js, Python/Flask, MySQL — Codegnan-certified in Python Full Stack & Frontend Development
-- 📚 Currently working through a 16-week self-directed AI/ML prep plan — daily builds, weekly deliverables, exit tests
-- 🐍 `python-daily` — this repo — is where each day's practice scripts live
-- 🎯 Targeting: entry-level AI Engineer / ML / Data-AI roles
+I build practical applications with Python, Flask, React, SQL, and REST APIs while developing my foundations in machine learning and data-oriented engineering.
 
-**Currently learning:** Python fundamentals → APIs & OOP → SQL → ML foundations (see `python-daily` commit history for day-by-day progress)
+## 🧰 Technical Focus
 
-📫 Reach me via GitHub issues on this profile repo or www.linkedin.com/in/sai-kiran-buska-127866403
+**Languages:** Python, JavaScript, SQL, HTML, CSS  
+**Backend:** Flask, REST APIs, SQLAlchemy, JWT  
+**Frontend:** React, Vite, Bootstrap  
+**Database:** MySQL  
+**Data/ML:** NumPy, pandas, Matplotlib, scikit-learn  
+**Tools:** Git, GitHub, Jupyter, VS Code
+
+## 🚀 Featured Work
+
+### Task Manager
+Full-stack task management application using React, Flask, MySQL, JWT authentication, SQLAlchemy, and REST APIs.
+
+→ https://github.com/saikiran0563/Task-Manager
+
+### Python Daily
+Structured Python, REST API, testing, logging, file I/O, and SQL practice organized by week and day.
+
+→ https://github.com/saikiran0563/python-daily
+
+### Release Checklist
+A full-stack release tracking application using React, GraphQL, Node.js, PostgreSQL, Docker Compose, and k6-based stress testing.
+
+→ https://github.com/saikiran0563/release-checklist
+
+## 📚 Current Learning
+
+Following a structured AI/ML preparation path with emphasis on:
+
+- Python programming and problem solving
+- SQL and interview-oriented querying
+- REST APIs and backend development
+- Data manipulation with pandas and NumPy
+- Machine learning fundamentals with scikit-learn
+- Practical projects and technical interview preparation
+
+## 🎯 Career Focus
+
+Open to entry-level opportunities in **Python development, full-stack development, backend development, and AI/ML-oriented roles** where I can contribute while continuing to build production-oriented skills.
+
+## 🔗 Connect
+
+- GitHub: https://github.com/saikiran0563
+- LinkedIn: https://www.linkedin.com/in/sai-kiran-buska-127866403
