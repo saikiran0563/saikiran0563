@@ -25,11 +25,6 @@ Structured Python, REST API, testing, logging, file I/O, and SQL practice organi
 
 → https://github.com/saikiran0563/python-daily
 
-### Release Checklist
-A full-stack release tracking application using React, GraphQL, Node.js, PostgreSQL, Docker Compose, and k6-based stress testing.
-
-→ https://github.com/saikiran0563/release-checklist
-
 ## 📚 Current Learning
 
 Following a structured AI/ML preparation path with emphasis on:
