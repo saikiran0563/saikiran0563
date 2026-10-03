@@ -25,6 +25,8 @@ Structured Python, REST API, testing, logging, file I/O, and SQL practice organi
 
 → https://github.com/saikiran0563/python-daily
 
+**Latest progress:** Week 3 Day 3 — SQL JOINs and subqueries.
+
 ## 📚 Current Learning
 
 Following a structured AI/ML preparation path with emphasis on:
