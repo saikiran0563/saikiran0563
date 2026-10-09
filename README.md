@@ -2,7 +2,7 @@
 
 **Computer Science graduate | Python Full-Stack Developer | AI/ML learner**
 
-I build practical applications with Python, Flask, React, SQL, and REST APIs while developing my foundations in machine learning and data-oriented engineering.
+I build practical applications with Python, Flask, React, SQL, and REST APIs while strengthening my foundations in machine learning and data-oriented engineering.
 
 ## 🧰 Technical Focus
 
@@ -15,32 +15,36 @@ I build practical applications with Python, Flask, React, SQL, and REST APIs whi
 
 ## 🚀 Featured Work
 
+### Job Application Tracker & Analytics
+A full-stack application for managing job applications, searching and filtering opportunities, and visualizing application progress with dashboard analytics.
+
+Stack: React, Flask, MySQL, JWT authentication, REST APIs, Recharts.
+
+→ https://github.com/saikiran0563/Job-Application-Tracker
+
 ### Task Manager
-Full-stack task management application using React, Flask, MySQL, JWT authentication, SQLAlchemy, and REST APIs.
+A full-stack task management application with user registration/login, protected task APIs, and task CRUD operations.
+
+Stack: React, Flask, MySQL, JWT authentication, SQLAlchemy, REST APIs.
 
 → https://github.com/saikiran0563/Task-Manager
 
 ### Python Daily
-Structured Python, REST API, testing, logging, file I/O, and SQL practice organized by week and day.
+Structured Python, REST API, testing, logging, file I/O, and SQL practice organized by week and day, with automated checks through GitHub Actions.
 
 → https://github.com/saikiran0563/python-daily
 
-**Latest progress:** Week 3 Day 3 — SQL JOINs and subqueries.
+## 📚 Current Focus
 
-## 📚 Current Learning
-
-Following a structured AI/ML preparation path with emphasis on:
-
-- Python programming and problem solving
-- SQL and interview-oriented querying
-- REST APIs and backend development
-- Data manipulation with pandas and NumPy
-- Machine learning fundamentals with scikit-learn
-- Practical projects and technical interview preparation
+- Strengthening Python programming and problem-solving skills
+- Practicing interview-oriented SQL
+- Building and testing REST APIs and backend features
+- Improving full-stack project quality and documentation
+- Developing foundations in pandas, NumPy, and machine learning with scikit-learn
 
 ## 🎯 Career Focus
 
-Open to entry-level opportunities in **Python development, full-stack development, backend development, and AI/ML-oriented roles** where I can contribute while continuing to build production-oriented skills.
+Open to entry-level opportunities in **Python development, backend development, and full-stack development**, while continuing to build skills in AI/ML.
 
 ## 🔗 Connect
 
